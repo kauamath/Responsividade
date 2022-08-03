@@ -10,9 +10,11 @@
  <img src="https://github.com/kauamath/Projeto-Logo-Responsivo/blob/master/img/desktop.png?raw=true">
  
  <h2>📱Nesse projeto aprendi também a respeito de responsividade  </h2>
+ 
+ <p>📱<strong>540px</strong></p>
+ <img src="https://github.com/kauamath/Projeto-Logo-Responsivo/blob/master/img/mobile540.png?raw=true">
 
 <p>📱<strong>390px</strong></p>
  <img src="https://github.com/kauamath/Projeto-Logo-Responsivo/blob/master/img/mobile-390.png?raw=true">
  
-  <p>📱<strong>370px</strong></p>
-  <img src="https://github.com/kauamath/Projeto-Logo-Responsivo/blob/master/img/mobile370.png?raw=true">
+
